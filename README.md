@@ -254,20 +254,3 @@ This project supports:
 
 ---
 
-## 👨‍💻 Author
-
-**Asvitha RM**
-
-AI/ML Intern | Data Science Enthusiast
-
----
-
-## ⭐ Show Your Support
-
-If you found this project useful:
-
-- Star this repository ⭐
-- Fork this project 🍴
-- Contribute improvements 🚀
-
-Together, let's build cleaner and smarter cities using AI.
